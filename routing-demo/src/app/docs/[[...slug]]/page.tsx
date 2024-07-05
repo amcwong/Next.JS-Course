@@ -1,3 +1,4 @@
+// Catch all segments tutorial 9
 export default function Docs({ params }: { params: { slug: string[] } }) {
   if (params.slug?.length === 2) {
     return (
