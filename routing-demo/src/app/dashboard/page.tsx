@@ -8,3 +8,4 @@ export default function Dashboard() {
 
 // key takeaway project files cane be safely colocated inside route segments
 // rendering line or barchart here can be added to the default export
+
